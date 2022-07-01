@@ -1,12 +1,30 @@
 # Telegram-telethon-forwarding-message-bot
-Forwarding Message from choosen channel to another
 
 
-How to use it open 
+## Table of contents
+* [General info](#general-info)
+* [Setup](#setup)
+* [S_forward_py](#setup_forward_py)
+* [S_channel_id_py](#setup_channel_id_py)
+* [Use](#using)
+
+## General info
+Telegram forwarding message from choosen channel to another.
+
+## Setup
 
 
-Open 
+## setup_channel_id_py
+How to use it open chanel_id.py and write your api_id and api_hash try run and get id on your channel and group where you belongs
+## Code Examples
+`
+api_id = ''
+api_hash = ''
+`
 
+## setup_forward_py
+How to use it open setup_forward_py.py run it.
+Write id that you wanna get message from and run it 
 
 
 
