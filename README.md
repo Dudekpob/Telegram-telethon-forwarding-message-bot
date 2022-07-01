@@ -12,15 +12,15 @@
 Telegram forwarding message from choosen channel to another.
 
 ## Setup
-
+Install Telethon 
+`pip3 install telethon`
 
 ## setup_channel_id_py
 How to use it open chanel_id.py and write your api_id and api_hash try run and get id on your channel and group where you belongs
 ## Code Examples
-`
-api_id = ''
-api_hash = ''
-`
+`api_id = ''`
+`api_hash = ''`
+
 
 ## setup_forward_py
 How to use it open setup_forward_py.py run it.
